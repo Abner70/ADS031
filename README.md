@@ -1,4 +1,7 @@
 # CALCULE A MÉDIA DO SEU VÍCULO (CMV)
+
+![](https://lh3.googleusercontent.com/-B54hIE0wzNs/YS-IO-RNI_I/AAAAAAAAA9k/V6v4dt2Tjg4eaSjcMJb0uuRYkw6u2smHQCLcBGAsYHQ/WhatsApp%2BImage%2B2021-08-29%2Bat%2B21.28.59.png)
+
 PROJETO-PI-MOBILE
 <h1 align="center"><project-name></h1>
 
@@ -16,7 +19,7 @@ PROJETO-PI-MOBILE
 
 ## Screenshots
 
-![Home Page](/screenshots/1.png "Home Page")
+![Home Page](https://lh3.googleusercontent.com/-B54hIE0wzNs/YS-IO-RNI_I/AAAAAAAAA9k/V6v4dt2Tjg4eaSjcMJb0uuRYkw6u2smHQCLcBGAsYHQ/WhatsApp%2BImage%2B2021-08-29%2Bat%2B21.28.59.png "Home Page")
 
 ![](/screenshots/2.png)
 
