@@ -1,80 +1,34 @@
-# CALCULE A MÉDIA DO SEU VÍCULO (CMV)
-
-![](https://lh3.googleusercontent.com/-B54hIE0wzNs/YS-IO-RNI_I/AAAAAAAAA9k/V6v4dt2Tjg4eaSjcMJb0uuRYkw6u2smHQCLcBGAsYHQ/WhatsApp%2BImage%2B2021-08-29%2Bat%2B21.28.59.png)
-
+# CALCULE A MÉDIA DO SEU VEÍCULO (CMV)
 PROJETO-PI-MOBILE
-<h1 align="center"><project-name></h1>
+
+![](https://lh3.googleusercontent.com/-bnYdBX7jC-s/YS-JBwYWzVI/AAAAAAAAA9s/tLZpFrK1gpQ52n3_K-VYTFvCPxc3ylcSQCLcBGAsYHQ/w191-h191/WhatsApp%2BImage%2B2021-08-29%2Bat%2B21.28.59dfsfds.jpg)
 
 <p align="center"><project-description></p>
 
+## Descrição do Projeto
+  ...
+ 
 ## Links
 
-- [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
+- [Repo](https://github.com/Abner70/ADS031<project-name> "<project-name> Repo")
 
-- [Live](<Homepage url> "Live View")
+- [Figma](https://www.figma.com/file/tx2IZRGaSfB66kcaQCuSVr/CMV?node-id=31%3A251/<project-name>/issues "Figma")
 
-- [Bugs](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
+- [Cores](https://coolors.co/6418e2-6b22e4-712ce2-8043e7-a178ee-f1ebfb-ffffff/<project-name>/issues "Cores")
+  
+## Esquema de Cores
+  
+![](https://1.bp.blogspot.com/-2fEKUXg_VY0/YS-Q3beMKeI/AAAAAAAAA-U/tAd4Okc90eQXDyPHJiE7TW2_peGGmVB2wCLcBGAsYHQ/s320/Colors%2Bmobile.png)  
+  
+## Prototipação
 
-- [API](<API Link> "API")
+![](https://1.bp.blogspot.com/-gds6xuglKoo/YS-MaeVRlwI/AAAAAAAAA-M/ui1NqWibxg0XkzMxjpkvys6fl3r4nmeLACLcBGAsYHQ/w646-h204/Telas.jpg)
 
-## Screenshots
+## Grupo 1
 
-![Home Page](https://lh3.googleusercontent.com/-B54hIE0wzNs/YS-IO-RNI_I/AAAAAAAAA9k/V6v4dt2Tjg4eaSjcMJb0uuRYkw6u2smHQCLcBGAsYHQ/WhatsApp%2BImage%2B2021-08-29%2Bat%2B21.28.59.png "Home Page")
-
-![](/screenshots/2.png)
-
-![](/screenshots/3.png)
-
-## Available Commands
-
-In the project directory, you can run:
-
-### `npm start" : "react-scripts start"`,
-
-The app is built using `create-react-app` so this command Runs the app in Development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser. You also need to run the server file as well to completely run the app. The page will reload if you make edits.
-You will also see any lint errors in the console.
-
-### `"npm run build": "react-scripts build"`,
-
-Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes. Your app will be ready to deploy!
-
-### `"npm run test": "react-scripts test"`,
-
-Launches the test runner in the interactive watch mode.
-
-### `"npm run dev": "concurrently "nodemon server" "npm run start"`,
-
-For running the server and app together I am using concurrently this helps a lot in the MERN application as it runs both the server (client and server) concurrently. So you can work on them both together.
-
-### `"serve": "node server"`
-
-For running the server file on you can use this command.
-
-### `npm run serve`
-
-## Built With
-
-- JavaScript
-- Node
-- NPM
-- Webpack
-- HTML
-- CSS
-
-## Future Updates
-
-- [ ] Reliable Storage
-
-## Author
-
-**Rohit Jain**
-
-- [Profile](https://github.com/rohit19060 "Rohit jain")
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi "Hi!")
-- [Website](https://kingtechnologies.in "Welcome")
-
-## 🤝 Support
-
-Contributions, issues, and feature requests are welcome!
-
-Give a ⭐️ if you like this project!
+#### Orientador:
+- Jose Reginaldo de Sousa Mendes Junior
+#### Integrantes:
+- Abner - (Scrum Master)
+- Jeferson Moraes - (Developer)
+- Wesley Júnior - (Developer) 
