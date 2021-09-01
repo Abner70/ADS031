@@ -14,7 +14,7 @@ PROJETO-PI-MOBILE
 
 - [Figma](https://www.figma.com/file/tx2IZRGaSfB66kcaQCuSVr/CMV?node-id=31%3A251/<project-name>/issues "Figma")
 
-- [Cores](https://coolors.co/6418e2-6b22e4-712ce2-8043e7-a178ee-f1ebfb-ffffff/issues "Cores")
+- [Cores](https://coolors.co/6418e2-6b22e4-712ce2-8043e7-a178ee-f1ebfb-ffffff)
   
 ## Esquema de Cores
   
