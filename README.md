@@ -29,6 +29,6 @@ PROJETO-PI-MOBILE
 #### Orientador:
 - Jose Reginaldo de Sousa Mendes Junior
 #### Integrantes:
-- Abner - (Scrum Master)
-- Jeferson Moraes - (Developer)
-- Wesley Júnior - (Developer) 
+- Abner Silva Ribeiro - 19214290002 - (Scrum Master) - (Developer)
+- Jeferson Vilela de Moraes - 19214290001 - (Developer)
+- Wesley Luís Araujo do Nascimento Júnior - 19214290016 - (Developer) 
