@@ -22,7 +22,7 @@ PROJETO-PI-MOBILE
   
 ## Prototipação
 
-![](https://1.bp.blogspot.com/-gds6xuglKoo/YS-MaeVRlwI/AAAAAAAAA-M/ui1NqWibxg0XkzMxjpkvys6fl3r4nmeLACLcBGAsYHQ/w646-h204/Telas.jpg)
+![](https://lh3.googleusercontent.com/-HHxnr8lr_aU/YUdIsGt3S1I/AAAAAAAAA-w/nZpz1_DIYTUPSLaK6emeg8J7fQP1K0_EgCLcBGAsYHQ/w668-h165/Screenshot_4.png)
 
 ## Grupo 1
 
